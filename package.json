@@ -1,0 +1,14 @@
+{
+  "name": "markov-exercise",
+  "version": "1.0.0",
+  "description": "Algorithm for generating machine-made text.",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aluisio Matias",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
